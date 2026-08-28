@@ -1,7 +1,1 @@
-# app-ads.txt for OrthoCalendar
-# Replace the line below with your actual AdMob publisher ID line.
-# Find it in: AdMob → Settings → Account info → Publisher ID (format: pub-XXXXXXXXXXXXXXXX)
-# Then replace the entire line below with:
-# google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
-
 google.com, pub-8118916113910349, DIRECT, f08c47fec0942fa0
